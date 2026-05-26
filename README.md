@@ -1,7 +1,8 @@
 # 📝 Todo With Firebase App
 
 A sleek, modern, and efficient Todo application built using **Flutter** and powered by **Firebase** 🔥. This app helps users manage their daily tasks seamlessly with real-time database updates.
-
+## Contact & Connect
+[![LinkedIn](https://img.shields.shields.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7388469424229412864/)
 ---
 
 ## ✨ Features
