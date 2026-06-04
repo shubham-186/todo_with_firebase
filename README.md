@@ -16,7 +16,6 @@ A sleek, modern, and efficient Todo application built using **Flutter** and powe
 
 * **Frontend:** Flutter & Dart 🚀
 * **Backend & Database:** Firebase 🔥
-* **State Management:** Provider / Bloc (agar aapne use kiya ho)
 
 ---
 
